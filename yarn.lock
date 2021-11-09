@@ -4671,6 +4671,11 @@ react-native-screens@~3.8.0:
   dependencies:
     warn-once "^0.1.0"
 
+react-native-shareplay@^0.6.1:
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/react-native-shareplay/-/react-native-shareplay-0.6.1.tgz#16e5b3767d98d815274bc69bd4de24ac38444131"
+  integrity sha512-Q56mrQ0hS54Thymw70amxt2c0G9tqkJ6eYZd9fCT9sMb1hRpBF0w/oEKtZtZ3FymKeqLBcmua0EoK2xstmbB5Q==
+
 react-native-web@0.17.1:
   version "0.17.1"
   resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.17.1.tgz#90d473c89dd99b88bc9830b2a9fcdd2fc5f04902"
